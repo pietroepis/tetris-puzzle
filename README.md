@@ -20,6 +20,6 @@ Following assumptions on scheme images have been made:
 - Illumination and perspective should be similar to those shown in training set
 - It's not mandatory for a tetromino to always have the same color (classification is based on geometrical properties, not colors)
 
-**How to execute**
+**How to execute**\
 You can launch the script from `main.m`, anyway you should previously execute `training.m` that takes care of training the two classifiers (Bayesian & KNN)\
 Input images can be specified by setting the values of `scheme_name` and `scene_name` variables, at the top of `main.m`.
